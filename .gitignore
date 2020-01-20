@@ -1,0 +1,6 @@
+app/
+[Bb]in/
+[Oo]bj/
+.vscode
+nupkg/
+
